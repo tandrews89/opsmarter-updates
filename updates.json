@@ -1,11 +1,11 @@
-{  
-   "addons":{  
-      "opsmarter@blackboard":{  
-         "updates":[  
-            {  
+{
+   "addons":{
+      "opsmarter@blackboard":{
+         "updates":[
+            {
                "version":"6.9",
                "update_link":"https://raw.githubusercontent.com/tandrews89/opsmarter-updates/master/opsmarter_6-6.9-an+fx-windows.xpi"
-            },
+            }
          ]
       }
    }
