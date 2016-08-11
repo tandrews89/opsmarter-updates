@@ -1,10 +1,10 @@
 {  
    "addons":{  
-      "addon@example.com":{  
+      "opsmarter@blackboard":{  
          "updates":[  
             {  
-               "version":"0.1",
-               "update_link":"https://example.com/addon-0.1.xpi"
+               "version":"6.9",
+               "update_link":"https://raw.githubusercontent.com/tandrews89/opsmarter-updates/master/opsmarter_6-6.9-an+fx-windows.xpi"
             },
          ]
       }
