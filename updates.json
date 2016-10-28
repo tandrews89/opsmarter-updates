@@ -3,8 +3,8 @@
     "opsmarter@blackboard": {
       "updates": [
         {
-          "version": "6.0.15",
-          "update_link": "https://raw.githubusercontent.com/tandrews89/opsmarter-updates/master/opsmarter_6-6.0.15-an+fx.xpi"
+          "version": "6.0.16",
+          "update_link": "https://raw.githubusercontent.com/tandrews89/opsmarter-updates/master/opsmarter_6-6.0.16-an+fx.xpi"
         }
       ]
     }
