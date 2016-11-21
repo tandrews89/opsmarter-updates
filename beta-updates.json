@@ -3,8 +3,8 @@
     "opsmarter-experimental@blackboard": {
       "updates": [
         {
-          "version": "7.1.1",
-          "update_link": "https://raw.githubusercontent.com/tandrews89/opsmarter-updates/master/opsmarter_6_experimental-7.1.1-an+fx.xpi"
+          "version": "7.1.3",
+          "update_link": "https://raw.githubusercontent.com/tandrews89/opsmarter-updates/master/opsmarter_6_experimental-7.1.3-an+fx.xpi"
         }
       ]
     }
