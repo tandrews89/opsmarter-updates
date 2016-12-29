@@ -3,7 +3,7 @@
     "opsmarter@blackboard": {
       "updates": [
         {
-          "version": "6.1.2",
+          "version": "6.1.2.1",
           "update_link": "https://raw.githubusercontent.com/tandrews89/opsmarter-updates/master/sutherland_clientscopetm-6.1.2.1-an+fx.xpi"
         }
       ]
