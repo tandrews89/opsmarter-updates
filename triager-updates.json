@@ -1,1 +1,12 @@
-
+{
+  "addons": {
+    "triager@blackboard": {
+      "updates": [
+        {
+          "version": "1.1",
+          "update_link": "https://raw.githubusercontent.com/tandrews89/opsmarter-updates/master/triager-1.1-an+fx.xpi"
+        }
+      ]
+    }
+  }
+}
