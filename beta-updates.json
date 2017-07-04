@@ -3,8 +3,8 @@
     "opsmarter-experimental@blackboard": {
       "updates": [
         {
-          "version": "10.6.9",
-          "update_link": "https://raw.githubusercontent.com/tandrews89/opsmarter-updates/master/sutherland_clientscopetm_experimental-10.6.9-an+fx.xpi"
+          "version": "10.6.10",
+          "update_link": "https://raw.githubusercontent.com/tandrews89/opsmarter-updates/master/sutherland_clientscopetm_experimental-10.6.10-an+fx.xpi"
         }
       ]
     }
